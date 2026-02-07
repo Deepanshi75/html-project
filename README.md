@@ -20,12 +20,13 @@ No additional setup or installation is required.
 - The resume is clean, readable, and easy to understand
 
 ## Screenshots
--[Screenshot/resume.png(2).png]
+-[screenshots/resume.png(2).png]
 
 ## Repository Status
 - Public GitHub repository
 - HTML-only project
 - Created according to the assignment guidelines
+
 
 
 
